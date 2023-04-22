@@ -1,106 +1,79 @@
-![MasterHead](https://cdn-images.zety.com/pages/how_to_write_web_developer_resume.jpg)
+<h1 align='center'>
+    <img  src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=blue&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+MERN+Developer;Always+Learning+New+Things' alt="Typing SVG"/>
+   
+   <img 
+src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75cfac4a7b496c85492a0996e5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39312f36622f31632f39313662316330623937383861643837623963636466633731626264616466332e676966" width="70%" height="370px"/>
+   
+  
+</h1>
 
+<h1 align="center">Hi 👋, I'm Rohit Dorage</h1>
 
-<h1 align="center">Hi 👋, I'm Yogesh Sathe</h1>
-<h3 align="center"  >I’m an aspiring full-stack web developer. I am keen to learn new things and explore different areas of knowledge. My passion for learning and implementing new skills on new projects drives me to constantly acquire new knowledge.</h3>
-<br/>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<p align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilrath101&label=Profile%20views&color=0e75b6&style=flat" alt="sunilrath101" /> </p>
-
-
-- 🌱  I’m currently learning *ReactJS, **NodeJS, **MongoDB, **ExpressJS, **TypeScript*
-- 👨‍💻 All of my projects are available at [Portfolio](https://sunilrath101.github.io/)
-- ✉️ You can contact me at *sunilrath.ssr@gmail.com*
-- 🤝 I'm open to collaborating on Interesting Projects
-- ⚡ Fun fact -->  *65.36%* developers use *JavaScript* among programming languages worldwide as of 2022
-
-<br/>
-<br/>
-
-
-
-
-<h2 align="left">👨🏻‍💻 Tech Stack</h2>
-
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; 
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=redux&logoColor=764abc)
-![Chakra_UI](https://img.shields.io/badge/-Chakra_UI-05122A?style=flat-square&logo=chakraui)
-![Material_UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat-square&logo=materialdesign)
-
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 
-![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)
-![Next.js](https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=Next.js)
-
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat-square&logo=vercel)
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+</p>
+   
+<p align="center">Efficient full stack web developer, having problem-solving ability and
+proficiency in MERN Stack. A good learner and always excited to learn new
+things in terms of technology. Skilled in teamwork, collaboration, time
+management, and other interpersonal skills. Looking for an opportunity to
+work in a challenging position for a technology-driven organization.</p>
 
 <br/>
+<div align="center"><img src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png" width=700 />
+   <br><br>
+  
 
-      
-      
+
+
+<!-- <p align="center"> <a href="https://twitter.com/KhakalShreyas" target="blank"><img src="https://img.shields.io/twitter/follow/KhakalShreyas?logo=twitter&style=for-the-badge" alt="KhakalShreyas" /></a> </p> -->
+
+<p align="center"> 
+<h2 align="center"> 💬 Ask me about</h2>
+   <div align="center">
  
-<h2 align="left">👨🏻‍💻 My GitHub Stats</h2>
-<div display="flex" >
-    &nbsp;
-    &nbsp;
-<a href="http://www.github.com/sunilrath101" ><img src="https://github-readme-stats.vercel.app/api?username=sunilrath101&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="sunilrath101's GitHub stats" width=45% /></a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-<a href="http://www.github.com/sunilrath101" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrath101&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"width=45% /></a>
-    &nbsp;
-    &nbsp;
-  </div>
-  <br/>
-<!--  most used languages   -->
-<!--   <a href="https://github.com/sunilrath101" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilrath101&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
-  <br/>  <br/>
-<!-- fro same color that stats have is "line=f97316" only change it  -->
-<a href="http://www.github.com/sunilrath101"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sunilrath101&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 
 
 
-<!-- <b>Top Repositories</b>
+ </div>
+   
+   
+<h2 align="center"> 📫 How to reach me </h2>
+ <p align="center">
+    <a target="_blank" href="mailto:rohitdorage100@gmail.com"><img src="https://img.shields.io/badge/rohitdorage100@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
 
-<div width="100%" align="center"><a href="https://github.com/sunilath101/-dull-letter-5131" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunilath101&repo=UrbanCompany-clone&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />      -->
-
-
+<h2 align="center">Connect with me:</h2>
+    
+Click here for my [Resume](https://drive.google.com/file/d/1kxAym4tYcxLkXkhdj3q8SVq1GcfePkvY/view?usp=sharing "Title")
 <br/>
 <br/>
+Click here for my [Portfolio](https://rohitd100.github.io/ "Title")
+<br/>
+<br/>
+Click here for my [Linkdin Account](https://www.linkedin.com/in/rohitdorage/ "Title")
+    
+<h2 align="center"> 📄 Know about my experiences</h2>
+    
+<p align="center">
+   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohitD100&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" width=500 /></p>  
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitD100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitD100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
+     
 
-<h2 align="left">📩 Contact Me 👇</h2>
-<a href="mailto:sunilrath.ssr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/sunil-singh-rathore-5834b4239/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-</a>
-<a href="https://twitter.com/SunilRath101">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://stackoverflow.com/users/19332686/sunil-singh-rathore">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackOverflow"/>
-</a>      
-      <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
- 
-<!-- - 👨‍💻 All of my projects are available at <a href="https://sunilrath101.github.io" target="__blank" rel=”noreferrer”  >*Portfolio*</a> -->
-<!---
-sunilath101/sunilath101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RohitD100&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
+<br/>
+<br/>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RohitD100&theme=dracula&hide_border=true)
