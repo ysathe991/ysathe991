@@ -7,7 +7,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
   
 </h1>
 
-<h1 align="center">Hi 👋, I'm Rohit Dorage</h1>
+<h1 align="center">Hi 👋, I'm Yogesh Sathe</h1>
 
 <p align="center">
 
@@ -45,7 +45,7 @@ work in a challenging position for a technology-driven organization.</p>
    
 <h2 align="center"> 📫 How to reach me </h2>
  <p align="center">
-    <a target="_blank" href="mailto:rohitdorage100@gmail.com"><img src="https://img.shields.io/badge/rohitdorage100@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a target="_blank" href="mailto:ysathe991@gmail.com"><img src="https://img.shields.io/badge/ysathe991@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 
 <h2 align="center">Connect with me:</h2>
@@ -53,7 +53,7 @@ work in a challenging position for a technology-driven organization.</p>
 Click here for my [Resume](https://drive.google.com/file/d/1kxAym4tYcxLkXkhdj3q8SVq1GcfePkvY/view?usp=sharing "Title")
 <br/>
 <br/>
-Click here for my [Portfolio](https://rohitd100.github.io/ "Title")
+Click here for my [Portfolio](https://ysathe991.github.io/ "Title")
 <br/>
 <br/>
 Click here for my [Linkdin Account](https://www.linkedin.com/in/rohitdorage/ "Title")
@@ -64,11 +64,11 @@ Click here for my [Linkdin Account](https://www.linkedin.com/in/rohitdorage/ "Ti
    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohitD100&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" width=500 /></p>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysathe991&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" width=500 /></p>  
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitD100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ysathe991&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitD100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysathe991&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
      
 
 ## 🏆 GitHub Trophies
