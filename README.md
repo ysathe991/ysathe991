@@ -45,7 +45,7 @@ work in a challenging position for a technology-driven organization.</p>
    
 <h2 align="center"> 📫 How to reach me </h2>
  <p align="center">
-    <a target="_blank" href="mailto:rohitdorage100@gmail.com"><img src="https://img.shields.io/badge/rohitdorage100@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a target="_blank" href="mailto:ysathe991@gmail.com"><img src="https://img.shields.io/badge/ysathe991@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 
 <h2 align="center">Connect with me:</h2>
@@ -53,10 +53,10 @@ work in a challenging position for a technology-driven organization.</p>
 Click here for my [Resume](https://drive.google.com/file/d/1kxAym4tYcxLkXkhdj3q8SVq1GcfePkvY/view?usp=sharing "Title")
 <br/>
 <br/>
-Click here for my [Portfolio](https://rohitd100.github.io/ "Title")
+Click here for my [Portfolio](https://ysathe991.github.io/ "Title")
 <br/>
 <br/>
-Click here for my [Linkdin Account](https://www.linkedin.com/in/rohitdorage/ "Title")
+Click here for my [Linkdin Account](https://www.linkedin.com/in/yogesh-sathe-420113228/ "Title")
     
 <h2 align="center"> 📄 Know about my experiences</h2>
     
