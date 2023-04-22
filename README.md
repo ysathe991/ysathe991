@@ -7,7 +7,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
   
 </h1>
 
-<h1 align="center">Hi 👋, I'm Rohit Dorage</h1>
+<h1 align="center">Hi 👋, I'm Yogesh Sathe</h1>
 
 <p align="center">
 
