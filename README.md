@@ -72,8 +72,8 @@ Click here for my [Linkdin Account](https://www.linkedin.com/in/rohitdorage/ "Ti
      
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RohitD100&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ysathe991&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <br/>
 <br/>
 <br/>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RohitD100&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ysathe991&theme=dracula&hide_border=true)
