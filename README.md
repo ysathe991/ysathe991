@@ -20,7 +20,7 @@ management, and other interpersonal skills. Looking for an opportunity to
 work in a challenging position for a technology-driven organization.</p>
 
 <br/>
-<div align="center"><img src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png" width=700 />
+<div align="center"><img src="" alt="technology img" width=700 />
    <br><br>
   
 
@@ -31,12 +31,12 @@ work in a challenging position for a technology-driven organization.</p>
 <p align="center"> 
 <h2 align="center"> 💬 Ask me about</h2>
    <div align="center">
- 
+<!--  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff) -->
 
 
 
@@ -50,7 +50,7 @@ work in a challenging position for a technology-driven organization.</p>
 
 <h2 align="center">Connect with me:</h2>
     
-Click here for my [Resume](https://drive.google.com/file/d/1kxAym4tYcxLkXkhdj3q8SVq1GcfePkvY/view?usp=sharing "Title")
+Click here for my [Resume](paste resume link here "Title")
 <br/>
 <br/>
 Click here for my [Portfolio](https://ysathe991.github.io/ "Title")
