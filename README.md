@@ -1,7 +1,7 @@
 <h1 align='center'>
 <img  src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=blue&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+MERN+Developer;Always+Learning+New+Things' alt="Typing SVG"/>
 
- <img src="https://cdn.dribbble.com/users/627511/screenshots/4909987/web-developer.png"  width="70%" height="400px"/>
+ <img src="https://cdn.dribbble.com/users/627511/screenshots/4909987/web-developer.png"  width="60%" height="380px"/>
 </h1>
 
 <h1 align="center">Hi 👋, I'm Yogesh Sathe</h1>
