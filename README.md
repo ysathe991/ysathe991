@@ -1,5 +1,5 @@
 <h1 align='center'>
-<img  src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=blue&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+MERN+Developer;Always+Learning+New+Things' alt="Typing SVG"/>
+<img  src='https://wwr-pro.s3-us-west-2.amazonaws.com/blog/2021/resume-software-dev-1.jpg?font=Fira+Code&size=24&duration=4000&pause=1000&color=blue&background=FFFFFF00&width=400&height=51&lines=Full+Stack+Web+Developer;Rising+MERN+Developer;Always+Learning+New+Things' alt="Typing SVG"/>
 <img src="https://cdn.dribbble.com/users/627511/screenshots/4909987/web-developer.png"  width="60%" height="350px"/>
 </h1>
 
