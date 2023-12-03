@@ -1,6 +1,6 @@
 <h1 align='center'>
 
- <img src="https://wwr-pro.s3-us-west-2.amazonaws.com/blog/2021/resume-software-dev-1.jpg"  width="60%" height="450px"/> 
+ <img src="https://wwr-pro.s3-us-west-2.amazonaws.com/blog/2021/resume-software-dev-1.jpg"  width="60%" height="400px"/> 
 </h1>
 
 <h1 align="center">Hi 👋, I'm Yogesh Sathe</h1>
